@@ -1,0 +1,149 @@
+[
+  {
+    "id": "sale0",
+    "invoice_no": "INV-20260607000",
+    "items": [
+      {
+        "product_id": "1",
+        "name": "Wireless Mouse",
+        "barcode": "ELC001",
+        "price": 29.99,
+        "quantity": 2,
+        "total": 59.98
+      }
+    ],
+    "subtotal": 59.98,
+    "tax": 6.0,
+    "discount": 0,
+    "total": 65.98,
+    "payment_method": "Card",
+    "cashier": "Admin",
+    "timestamp": "2026-06-07T10:00:00"
+  },
+  {
+    "id": "sale1",
+    "invoice_no": "INV-20260606001",
+    "items": [
+      {
+        "product_id": "1",
+        "name": "Wireless Mouse",
+        "barcode": "ELC001",
+        "price": 29.99,
+        "quantity": 2,
+        "total": 59.98
+      }
+    ],
+    "subtotal": 59.98,
+    "tax": 6.0,
+    "discount": 0,
+    "total": 65.98,
+    "payment_method": "Card",
+    "cashier": "Admin",
+    "timestamp": "2026-06-06T10:00:00"
+  },
+  {
+    "id": "sale2",
+    "invoice_no": "INV-20260605002",
+    "items": [
+      {
+        "product_id": "1",
+        "name": "Wireless Mouse",
+        "barcode": "ELC001",
+        "price": 29.99,
+        "quantity": 2,
+        "total": 59.98
+      }
+    ],
+    "subtotal": 59.98,
+    "tax": 6.0,
+    "discount": 0,
+    "total": 65.98,
+    "payment_method": "Card",
+    "cashier": "Admin",
+    "timestamp": "2026-06-05T10:00:00"
+  },
+  {
+    "id": "sale3",
+    "invoice_no": "INV-20260604003",
+    "items": [
+      {
+        "product_id": "1",
+        "name": "Wireless Mouse",
+        "barcode": "ELC001",
+        "price": 29.99,
+        "quantity": 2,
+        "total": 59.98
+      }
+    ],
+    "subtotal": 59.98,
+    "tax": 6.0,
+    "discount": 0,
+    "total": 65.98,
+    "payment_method": "Card",
+    "cashier": "Admin",
+    "timestamp": "2026-06-04T10:00:00"
+  },
+  {
+    "id": "sale4",
+    "invoice_no": "INV-20260603004",
+    "items": [
+      {
+        "product_id": "1",
+        "name": "Wireless Mouse",
+        "barcode": "ELC001",
+        "price": 29.99,
+        "quantity": 2,
+        "total": 59.98
+      }
+    ],
+    "subtotal": 59.98,
+    "tax": 6.0,
+    "discount": 0,
+    "total": 65.98,
+    "payment_method": "Card",
+    "cashier": "Admin",
+    "timestamp": "2026-06-03T10:00:00"
+  },
+  {
+    "id": "6c180336-473f-4b5f-bd37-e2647e66d9ca",
+    "invoice_no": "INV-20260607104216",
+    "items": [
+      {
+        "product_id": "e6e2c525-8780-4524-85ac-6b5207df2ba9",
+        "name": "book",
+        "barcode": "9788197670046",
+        "price": 60,
+        "quantity": 1,
+        "total": 60
+      }
+    ],
+    "subtotal": 60,
+    "tax": 6.0,
+    "discount": 0,
+    "total": 66.0,
+    "payment_method": "Cash",
+    "cashier": "Admin",
+    "timestamp": "2026-06-07T10:42:16.975795"
+  },
+  {
+    "id": "fa78572c-0037-48aa-8863-b6027e3f0ccb",
+    "invoice_no": "INV-20260607104848",
+    "items": [
+      {
+        "product_id": "06aafd00-591d-4ccf-a58c-f2b071d779b4",
+        "name": "bodyx",
+        "barcode": "8906056633969",
+        "price": 120,
+        "quantity": 3,
+        "total": 360
+      }
+    ],
+    "subtotal": 360,
+    "tax": 36.0,
+    "discount": 0,
+    "total": 396.0,
+    "payment_method": "Cash",
+    "cashier": "Admin",
+    "timestamp": "2026-06-07T10:48:48.519782"
+  }
+]

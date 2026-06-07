@@ -1,4 +1,4 @@
-# StockMaster Pro 📦
+# Inventory Managment Pro 📦
 ### Full-Stack Inventory Management System
 
 A modern, mobile-ready inventory system with barcode/QR scanner, POS, receipts, and dashboard.
